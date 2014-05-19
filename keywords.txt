@@ -1,0 +1,59 @@
+#######################################
+# Syntax Coloring Map For Meggy Jr RGB
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+####################################### 
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ClearMeggy	KEYWORD2 
+SetPxClr	KEYWORD2
+ClearPixel	KEYWORD2
+GetPixelR	KEYWORD2
+GetPixelG	KEYWORD2
+GetPixelB	KEYWORD2
+MeggyFrame  	KEYWORD2
+AuxLEDs		KEYWORD2
+SoundOn		KEYWORD2
+Tone_Start	KEYWORD2 
+ClearSlate	KEYWORD2
+DrawPx		KEYWORD2
+SafeDrawPx	KEYWORD2
+DisplaySlate	KEYWORD2
+SetAuxLEDs	KEYWORD2
+CheckButtonsDown	KEYWORD2
+CheckButtonsPress	KEYWORD2
+ReadPx		KEYWORD2
+EditColor	KEYWORD2
+MeggyJrSimpleSetup	KEYWORD2
+Button_A	KEYWORD2
+ Button_B	KEYWORD2
+Button_Up	KEYWORD2
+Button_Down	KEYWORD2
+Button_Left	KEYWORD2 
+Button_Right  KEYWORD2
+MakingSound	KEYWORD2
+ToneTimeRemaining KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+MeggyJr		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+####################################### 
+
+MeggyRed     LITERAL1
+MeggyOrange  LITERAL1
+MeggyYellow  LITERAL1
+MeggyGreen   LITERAL1
+MeggyBlue    LITERAL1
+MeggyViolet  LITERAL1
+MeggyWhite   LITERAL1 

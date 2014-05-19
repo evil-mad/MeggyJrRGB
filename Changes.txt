@@ -1,0 +1,47 @@
+v 1.5  Modifications for compatibility with Arduino 1.0, and new RGB LED Matrix displays with brighter green LEDs.
+
+ - Example files renamed with ".ino" file extension (suffix).
+
+ - Requirement for wiring.h removed from MeggyJr.cpp file.
+
+ - Added new color map choice, in the MeggyJr.h file.  For newer LED matrices, with stronger green elements, leave the default choice (#define UseNewColors  1) enabled.  For older matrices-- or if your white looks purple --comment out that line.
+
+ - Changes to serial sketches, to reflect changes in Arduino 1.0.
+
+
+
+
+
+v 1.4: Added new SafeDrawPx to the simplified library.
+  -This function is like DrawPx, except that it performs limit checking on the inputs.
+
+Also added new program, MeggyJr_Revenge.
+
+
+v 1.3.2:
+Re-zipped to (hopefully) avoid issues with the Zip format on Vista.
+
+
+Upgrade note for library version 1.3
+
+The sound generation routine has been changed, and sounds now terminate
+automatically.  The functions SoundCheck() and Tone_Update() are no longer needed and should be removed from programs where they were previously found.
+
+The variables ToneInProgress and SoundStopTime have also been removed.  To determine if a sound is currently playing you can check to see if the value of MakingSound is nonzero.
+
+Example:      
+    Tone_Start(2000, 50); 
+    while (MakingSound)   {}    
+
+
+Upgrade note for library version 1.2
+
+If moving from an older version of the library, please note that the following function two names have changed:
+
+1. 'EmptyScreen' is now 'ClearSlate'
+
+and
+
+2.  ShowScreen  is now 'DisplaySlate'
+
+The syntax and functionality of these two functions has not changed, however the names have been changed to make the documentation more clear.  If you have written software for Meggy Jr that uses these functions, a simple search-and-replace operation should bring you up to full compatibility with library version 1.2.  We'll try not to do this again. :)
