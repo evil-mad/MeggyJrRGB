@@ -1,0 +1,3 @@
+schematics  MeggyJrC.sch
+elements-dir ./pcb-elements     
+output-name MeggyJr13-oshw

@@ -1,0 +1,31 @@
+Item,QTY,REF DES,DESCRIPTION,PACKAGE,PINS,LOCATION,EMS PN,MANF,MANF PART NO,DIGI-KEY PART,,ALT SOURCE PN,SUBSTITUTE OK?,ADDITIONAL NOTE on Assembly
+1,1,PCB,"Meggy Jr RGB PCB, Rev 1.3",,,,61-0019,,,N/A,1,,,
+2,2,"R1, R2","1k Resistor, 1/4 W",PTH Axial,2,TOP SIDE,10-0007,Yageo,CFR-25JB-52-1K,1.0KQBK-ND,,,Yes,
+3,1,R3,"100 ohm Resistor, 1/4 W",PTH Axial,2,TOP SIDE,10-0001,Yageo,CFR-25JR-52-100R,100QBK-ND,,,Yes,
+4,1,R4,"10k Resistor, 1/6 W",PTH Axial,2,TOP SIDE,10-0003,Yageo,CFR-12JB-52-10K,10KEBK-ND,3,,Yes,
+5,9,RB0 - RB8,"620 Ohm Resistor, 1/4 W",PTH Axial,2,TOP SIDE,10-0018,Yageo,CFR-25JB-52-620R,620QBK-ND,3,,Yes,
+6,10,Q0-Q8,2STX2220 PNP Transistor,TO-92,3,TOP SIDE,34-0005,STMicroelectronics,2STX2220,497-7067-ND,25,,With EMS approval only,"Bent at Right angle prior to insertion; 
+consult assembly instructions for method."
+7,1,J2,6-pin SIL RA header,PTH,6,TOP SIDE,20-0007,Molex,22288062,WM6106-ND,Opt.,4Ucon 0872,Yes,
+8,1,J3,3-pin SIL RA header,PTH,3,TOP SIDE,20-0022,Molex,22288032,WM6103-ND,,4Ucon 0867,Yes,
+9,1,L1,Buzzer,PTH Radial,2,TOP SIDE,41-0001,Soberton,WT-1205,433-1028-ND or 102-1153-ND,,,With EMS approval only,
+10,2,"U2,U3",16-bit LED driver IC,24DIP,24,TOP SIDE,31-0003,Macroblock,MBI5026GN,N/A,,,No,
+11,1,U1,"ATmega328P Microcontroller 
+(pre-programmed)",28DIP,28,TOP SIDE,32-0003,Atmel,ATMEGA328P-PU,ATMEGA328P-PU-ND,,,No,
+12,2,"C7,C8",18 pF ceramic capacitor,PTH Radial,2,TOP SIDE,11-0010,Vishay,K180J15C0GF5TL2,BC1004CT-ND,Opt.,,Yes,
+13,1,XTL,16 MHz oscillator crystal,,2,TOP SIDE,13-0001,Abracon,ABL-16.000MHZ-B2,631-1108-ND,Opt.,,Yes,
+14,2,"C3,C9","470 uF, 6.3 V electrolytic Cap.",PTH Radial,2,TOP SIDE,11-0011,Panasonic,ECA-0JM471,P5114-ND,1,,Yes,Bent at Right angle; check assembly instructions for method.
+15,5,"C1,C2,C4,C5,C6",0.1 uF ceramic capacitor,PTH Radial,2,TOP SIDE,11-0001,Vishay,K104Z15Y5VE5TL2,BC1148CT-ND,,,Yes,
+16,8,D0-D7,"3mm ultrabright LEDs, yellow diffused",PTH Radial,2,TOP SIDE,33-0030,Betlux,BL-L312UYW,,,,Yes,
+17,1,J1,6-pin DIL header,PTH,6,BOTTOM SIDE,20-0005,FCI,67996-106HLF,609-3202-ND,,4Ucon 00989,Yes,Mask holes for wave solder. Do not populate.
+18,4,U4 (sockets),8-pin SIP machine pin socket,PTH,8,TOP SIDE,20-0024,,,,,Jameco 102201,Yes,
+19,1,U4,"8x8 RGB LED Matrix Display, diffused lenses, black paint on face",(In socket U4),,,33-0050,Betlux,BL-M23B881RGB-11,,,,With EMS approval only,
+20,1,S1,Tactile Button Switch (reset),PTH,4,TOP SIDE,43-0005,Omron,B3F-1000,SW400-ND,5,,Yes,
+21,6,"b0,b1,b2,b3,b4,b5",Tactile Button Switches,PTH,4,TOP SIDE,43-0002,Omron,B3F-5050,SW801-ND,5,,With EMS approval only,
+22,1,Battery Box,3 x AAA cell,,,,42-0003,,,,1,Jameco 216312,With EMS approval only,"Mask holes for wave solder. Do not populate; 
+will be populated by EMS in California."
+23,1,J3 (header jumper),two-pin shunt/jumper,,,,20-0001,4Ucon,05734,,,Jameco 152671,Yes,Install in ÒEXTÓ position of J3 after wave solder.
+24,2,"b0,b1","KeyCap, Round",,,,50-0002,Omron,B32-1620,SW959-ND,,,Yes,Can be added in CA
+25,4,"b2,b3,b4,b5","KeyCap, Square",,,,50-0001,Omron,B32-1220,SW954-ND,,,Yes,Can be added in CA
+26,1,J4,2.5 mm power jack,PTH,3,TOPBOTTOMSIDE,20-0016,CUI,PJ-002B,CP-002B-ND,,,Yes,Mask holes for wave solder. Hand solder after wave.
+,,,,,,,,,,,,,,
