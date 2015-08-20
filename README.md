@@ -1,7 +1,10 @@
 MeggyJrRGB
 ==========
 
-Software for the Meggy Jr RGB kit from Evil Mad Scientist Laboratories.
+Software for the [Meggy Jr RGB](http://shop.evilmadscientist.com/productsmenu/100-meggyjr) kit from Evil Mad Scientist Laboratories.
+
+
+
 
 Meggy Jr RGB is a platform to develop handheld pixel games based around an 8x8 RGB LED matrix display.  The heart of the system is an ATmega328P microcontroller,which can be programmed through the Arduino development environment.
 
@@ -16,15 +19,13 @@ External resources
 ----
 
 
+Primary resource: [The main documentation page](http://wiki.evilmadscientist.com/Meggy_Jr_RGB) for the Meggy Jr RGB kit
 
-The main documentation page for the Meggy Jr RGB kit is here: 
-http://wiki.evilmadscientist.com/Meggy_Jr_RGB
+Please see that page for hardware documentation and the introduction to programming Meggy Jr RGB.
 
-Please seee that page for hardware documentation and the introduction to programming Meggy Jr RGB.
+We also have a (rather underused) [developer's mailing list](http://groups.google.com/group/meggydev) for Meggy Jr RGB; if you have questions, that might be a good place to ask.
 
-We also have a (rather underused) developer's mailing list for Meggy Jr RGB; if you have questions, that might be a good place too: http://groups.google.com/group/meggydev
-
-This repository has been migrated from our old google code site, here: https://code.google.com/p/meggy-jr-rgb/
+This repository has been migrated from our old [google code site](https://code.google.com/p/meggy-jr-rgb/).
 
 
 
