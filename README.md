@@ -16,10 +16,9 @@ This repository has been migrated from our old google code site, here: https://c
 The main documentation page for the Meggy Jr RGB kit is here: 
 http://wiki.evilmadscientist.com/Meggy_Jr_RGB
 
+Please seee that page for hardware documentation and the introduction to programming Meggy Jr RGB.
 
-For more information, please see the Meggy Jr RGB [http://www.evilmadscientist.com/article.php/meggyjr intro page] and the [http://www.evilmadscientist.com/article.php/meggyjrlib introduction to programming] Meggy Jr RGB.
-
-We also have a (rather underused) [http://groups.google.com/group/meggydev developer's mailing list] for Meggy Jr RGB; if you have questions, that might be a good place too.
+We also have a (rather underused) developer's mailing list for Meggy Jr RGB; if you have questions, that might be a good place too: http://groups.google.com/group/meggydev
 
 
 ------------------------------------------------------------------------
