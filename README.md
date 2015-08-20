@@ -1,4 +1,4 @@
-MeggyJrRGB
+Meggy Jr RGB
 ==========
 
 Software for the [Meggy Jr RGB](http://shop.evilmadscientist.com/productsmenu/100-meggyjr) kit from Evil Mad Scientist Laboratories.
