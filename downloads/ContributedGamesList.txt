@@ -76,10 +76,25 @@ MeggyJr_GemKeeper_100.zip
 Gem 1.0 - Match 3 gems, can you get to 255? 
 
 MeggyJr_Ball_Buster.zip	
-A new game that combines Pong and Keep Away.  
+A new game that combines Pong and Keep Away.   ( Ping Pong and avoid type game)
 
 MeggyJr_Font.zip	
 MeggyJr RGB Scrolling Font and Message Board 
 
 MeggyJr_RGBmix.zip	
 MeggyJr RGB Color Mixing Program  
+
+MeggyEtch.zip
+A simple Etch-a-sketch program for Meggy.
+
+MeggyJr_Sapper.pde
+Mine sweeping game
+
+MeggyJr_Dot-090202a.zip
+Capture the sun and avoid getting rained on! More info at the Make Blog: 
+http://makezine.com/2009/02/03/making-games-with-meggy-jr/
+
+ColorCube.pde
+?
+
+
