@@ -1,0 +1,85 @@
+LIST OF CONTRIBUTED MEGGY JR RGB PROGRAMS
+
+
+
+
+relaxer.zip	
+relaxer 1.3 a relaxation app for the Meggy Jr  
+
+Ocarina_of_Meggy_v102.pde	
+Ocarina 1.02 Play the Ocarina from your Meggy Jr  
+
+MeggyJr_Snake.zip	
+Eat yellow and green fruit and avoid obstacles to complete levels and score points.   
+
+multijr_0_1.zip	
+This is a multigame sketch for the Meggy-jr-RGB including: Froggyjr, Fireman, Revenge of the Cherry Tomatoes, Meggybrite and Meggysays. Requires an Atmega328  
+
+MeggyJr_BubbleMiner_1_01.zip	
+Pop Bubbles to get the high score. Fully documented.   
+
+Attack3 build 2010.01.04.zip	
+Attack v3, enhanced version of Attack of the Cherry Tomatoes
+
+MeggyFour.pde	
+IMPROVED! Connect four checkers in-a-row, before Meggy Jr. does. 
+
+MeggyFrustration_v1.0.zip	
+A game quite similar to the German board game "Mensch ärgere Dich nicht" (see http://en.wikipedia.org/wiki/Mensch_ärgere_dich_nicht)   
+
+tetriMeggy.zip	
+tetriMeggy 1.0 - A game similar to Tetris   
+
+meggyjr_rush_hour_1_0.pde	
+An implementation of the "Rush Hour" sliding block puzzle game. Includes ten levels.   
+
+meggyjr_reverse_game_1_0.pde	
+Change all the dots from blue to orange to hear part of the Knight Rider theme. But is it art?   
+
+MeggyJr_Breakout.pde	
+Meggy Jr Breakout clone v1.0, bounce the ball into the blocks   
+
+MeggyJr_Bubbles_v100.zip	
+"The Bubbles From Outer Space", Initial Meggy Jr RGB version   
+
+Meggy_Mind_1.0.pde	
+A code breaking game similar to "Master Mind"   
+
+MeggyJr_Target.pde	
+Get as many bullseyes as you can in eight shots.   
+
+MeggySeq-1.01.zip	
+MeggySeq, a rhythm and music step sequencer   
+
+MeggyJr_SuperMonkeyKong_1.1.pde	
+Super Monkey Kong 1.1 by Steve Or Steven Read  
+
+lines.pde	
+Draws bouncy lines on the Meggy's screen  
+
+MeggyJr_MeggyChip.pde.zip	
+MeggyChip-- a game for two linked Meggy Jr RGBs 
+
+invaders.pde	
+Invaders game by Ken Corey, v. 1.01   
+
+Meggy_Says_1_0.pde	
+A "Simon" like game by Greg Prevost 
+
+MeggyJr_Fireman.pde	
+Fireman Fireman 1.2
+
+plasma.zip	
+Plasma demo by Ken Corey. Flowing colors; hit button 'A' to toggle patterns. 
+
+MeggyJr_GemKeeper_100.zip	
+Gem 1.0 - Match 3 gems, can you get to 255? 
+
+MeggyJr_Ball_Buster.zip	
+A new game that combines Pong and Keep Away.  
+
+MeggyJr_Font.zip	
+MeggyJr RGB Scrolling Font and Message Board 
+
+MeggyJr_RGBmix.zip	
+MeggyJr RGB Color Mixing Program  
