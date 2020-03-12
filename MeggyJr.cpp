@@ -29,7 +29,7 @@
 
 byte MeggyJr::MeggyFrame[DISP_BUFFER_SIZE];
 
-byte MeggyJr::AuxLEDs;
+static volatile byte MeggyJr::AuxLEDs;
 byte MeggyJr::SoundAllowed;	 
 byte MeggyJr::SoundEnabled;	
 

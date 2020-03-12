@@ -138,7 +138,7 @@ class MeggyJr
 		MeggyJr(void);										// Constructor
 		
 		static byte MeggyFrame[DISP_BUFFER_SIZE];
-		static byte AuxLEDs;
+		static volatile byte AuxLEDs;
 		
 		static byte SoundEnabled;		static byte SoundAllowed;	 
 		
